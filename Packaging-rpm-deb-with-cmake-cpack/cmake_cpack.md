@@ -221,9 +221,12 @@ cpack -G DEB .
  * Compile & shipping pre/post scripts:
  https://github.com/andrew-hardin/cpack-systemd-demo/
  ##### Presentation
-* This presentation:
-https://gyptazy.ch/talks/cmake_cpack/
+* This presentation: https://gyptazy.ch/talks/cmake_cpack/
 
 
 # Thanks!
 ![bg right:40% 80%](https://gyptazy.ch/files/presentation/thankyou.png)
+<br>
+Web: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://gyptazy.ch
+Twitter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@gyptazy
+Fediverse: &nbsp;gyptazy@bsd.cafe

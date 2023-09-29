@@ -119,7 +119,7 @@ This tech-talk is a single part of multiple ones. Please see also:
 * 02: Deeper insights - How the things work internally
 * 03: Setting up a Jail from scratch manually
 * 04: Setting up a Jail with tooling & manager (ezjail)
-* 05: Custom things of Jails
+* 05: Custom things of Jails (vnet, pf, Jail audit)
 
 # Thanks!
 ![bg right:40% 80%](https://gyptazy.ch/files/presentation/thankyou.png)

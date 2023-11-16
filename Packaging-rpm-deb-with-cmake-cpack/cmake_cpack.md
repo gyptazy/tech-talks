@@ -5,15 +5,15 @@ class:
   - lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://gyptazy.ch/files/presentation/background.svg')
+backgroundImage: url('https://cdn.gyptazy.ch/images/background.svg')
 headingDivider: 1
-header: '![left: 5% 5%](https://gyptazy.ch/files/presentation/gyptazy64.png)'
+header: '![left: 5% 5%](https://cdn.gyptazy.ch/images/gyptazy64.png)'
 footer: '*(C) 2023 @gyptazy <<contact@gyptazy.ch>>*'
 ---
 
 
 # Packaging with CMake
-![bg right:40% 80%](https://gyptazy.ch/files/presentation/cmake-cpack-deb.png)
+![bg right:40% 80%](https://cdn.gyptazy.ch/images/cmake-cpack-deb.png)
 
 Creating packages for Debian, RedHat & FreeBSD with CPack (CMake)
 
@@ -41,7 +41,7 @@ Creating packages for Debian, RedHat & FreeBSD with CPack (CMake)
 
 
 # Goals
-![bg right:40% 80%](https://gyptazy.ch/files/presentation/rust.png)
+![bg right:40% 80%](https://cdn.gyptazy.ch/images/rust.png)
 ##### Focussing on packaging we want to
 * Use CPack
 * Create ready to use packages for
@@ -221,11 +221,11 @@ cpack -G DEB .
  * Compile & shipping pre/post scripts:
  https://github.com/andrew-hardin/cpack-systemd-demo/
  ##### Presentation
-* This presentation: https://gyptazy.ch/talks/cmake_cpack/
+* This presentation: https://gyptazy.ch/talks/
 
 
 # Thanks!
-![bg right:40% 80%](https://gyptazy.ch/files/presentation/thankyou.png)
+![bg right:40% 80%](https://cdn.gyptazy.ch/images/thankyou.png)
 <br>
 Web: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://gyptazy.ch
 Twitter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@gyptazy

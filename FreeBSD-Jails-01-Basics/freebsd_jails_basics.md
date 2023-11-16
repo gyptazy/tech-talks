@@ -5,15 +5,15 @@ class:
   - lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://gyptazy.ch/files/presentation/background.svg')
+backgroundImage: url('https://cdn.gyptazy.ch/images/background.svg')
 headingDivider: 1
-header: '![left: 5% 5%](https://gyptazy.ch/files/presentation/gyptazy64.png)'
+header: '![left: 5% 5%](https://cdn.gyptazy.ch/images/gyptazy64.png)'
 footer: '*(C) 2023 @gyptazy <<contact@gyptazy.ch>>*'
 ---
 
 
 # FreeBSD Jails (basics)
-![bg right:40% 80%](https://gyptazy.ch/wp-content/uploads/2023/09/FreeBSD_jail_gyptazy.png)
+![bg right:40% 80%](https://cdn.gyptazy.ch/images/FreeBSD_jail_gyptazy.png)
 
 What are Jails & why everyone loves them?!
 
@@ -47,7 +47,7 @@ What are Jails & why everyone loves them?!
 * Own subset of users (including root user)
 
 # Goals
-![bg right:40% 80%](https://gyptazy.ch/wp-content/uploads/2023/09/finish_flag.png)
+![bg right:40% 80%](https://cdn.gyptazy.ch/images/finish_flag.png)
 * Virtualization
 * Security
 
@@ -99,7 +99,7 @@ But...
 * Creating Jail userland
 
 # Usage: Tools
-![bg right:40% 80%](https://gyptazy.ch/wp-content/uploads/2023/09/tools.png)
+![bg right:40% 80%](https://cdn.gyptazy.ch/images/tools.png)
 Instead of doing everything by hand - use a manager:<br><br>
 * BastilleBSD (sysutils/bastille)
 * AppJail (sysutils/appjail)
@@ -122,7 +122,7 @@ This tech-talk is a single part of multiple ones. Please see also:
 * 05: Custom things of Jails (vnet, pf, Jail audit)
 
 # Thanks!
-![bg right:40% 80%](https://gyptazy.ch/files/presentation/thankyou.png)
+![bg right:40% 80%](https://cdn.gyptazy.ch/images/thankyou.png)
 <br>
 Web: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://gyptazy.ch
 Twitter: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@gyptazy

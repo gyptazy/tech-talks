@@ -4,6 +4,6 @@ I'm gyptazy (pronounced ɡʏpˈ​​t​eɪzi​ː​) - an enthusiastic and pa
 
 # Follow me
  * Twitter: https://twitter.com/gyptazy
- * Mastodon: https://mastodon.bsd.cafe/@gyptazy
+ * Fediverse: @gyptazy@gyptazy.ch
  * Dev.to: https://dev.to/gyptazy
  * Web: https://gyptazy.ch
